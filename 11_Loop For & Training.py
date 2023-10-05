@@ -91,6 +91,7 @@ for student, subjects in students.items():
     print(f"Total Points For {student} Is {total}")
     total = 0
 
+
 # regular way
 points = 0
 total = 0
